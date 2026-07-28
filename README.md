@@ -57,8 +57,7 @@ Bot bảo vệ & quản lý server Discord — lọc spam, chống raid, hỗ tr
 
 <p>
   <a href="https://github.com/hongphuc2024lapvo-stack" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://tiktok.com/@your-handle" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@hong.phuc5915?_r=1&_t=ZS-98PbUIMVN6T" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://discord.gg/your-invite" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
