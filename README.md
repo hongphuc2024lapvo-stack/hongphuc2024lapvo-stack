@@ -30,28 +30,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### 🚀 Sản phẩm nổi bật
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎵 Austin Music**
-Bot phát nhạc cho Discord — hỗ trợ hàng đợi bài hát và điều khiển phát nhạc ngay trong kênh voice.
-
-`Discord Bot` `Music`
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ Austin Guard**
-Bot bảo vệ & quản lý server Discord — lọc spam, chống raid, hỗ trợ kiểm duyệt tự động.
-
-`Discord Bot` `Moderation`
-
-</td>
-</tr>
-</table>
 
 ### 🌐 Kết nối với mình
 
